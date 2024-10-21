@@ -1,0 +1,9 @@
+.Countries-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.visited {
+    background-color: bisque;
+    color: rgb(77, 68, 68);
+}
